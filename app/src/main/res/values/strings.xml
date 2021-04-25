@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Branch App</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="title_activity_messages">Messages</string>
+    <string name="title_activity_reply_message">Reply Message</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="text_login">"Login"</string>
+
+    <string name="text_enter_email">Please enter email address</string>
+    <string name="text_enter_password">Please enter password</string>
+    <string name="text_enter_all_fields">Please enter all fields</string>
+    <string name="text_enter_reply">Please type a reply</string>
+    <string name="text_reply_sent_successfully">Reply sent successfully.</string>
+
+
+</resources>

@@ -1,0 +1,9 @@
+package com.remlexworld.branchapp.model
+
+import com.google.gson.annotations.SerializedName
+
+data class LoginResponse (
+    @SerializedName("auth_token")
+    var authToken: String
+
+)
